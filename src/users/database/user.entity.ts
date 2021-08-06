@@ -18,5 +18,4 @@ export class UserEntity {
   @Column()
   password: string;
 
-
 }
